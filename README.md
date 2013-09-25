@@ -5,7 +5,7 @@ This repository is for Fashioning Circuits students to share and discuss their f
 
 .md is the file extension for Markdown, a document language that allows for faster and more lightweight composition than HTML or other formatted document files.  We recommend reading through [John Gruber's Markdown Basics](http://daringfireball.net/projects/markdown/basics "Markdown: Basics") and [GitHub's guide to how they parse Markdown](https://help.github.com/articles/github-flavored-markdown "GitHub-flavored Markdown") before adding your submission.
 
-Please submit your ideas before midnight on Wednesday, September 26.  If you're having trouble with Git or GitHub, contact Harrison with questions.
+Please submit your ideas before class on Thursday, September 27.  If you're having trouble with Git or GitHub, contact Harrison with questions.
 
 Instructions
 ------------
