@@ -10,3 +10,8 @@ Ashley Norfleet
 ---------------
 
 I have noticed how much trouble little kids have with getting their shoes on the correct feet and also how much they love things (especially shoes) that light up. I want to combine these observations to create shoes that are able to actually tell the child when their shoes are on the right or wrong feet. I want to do this by using various LEDs, sensors, and possibly sounds to create something that makes it fun and interactive for the child while also teaching them where their shoes belong. I think this would be both important and helpful in that it is teaching a child a relatively important concept that most of us simply take for granted.
+
+Aaron Edmiston
+--------------
+
+I have been having a hard time thinking of something to do for this project, but I would like to do something music releated as it is a big part of my life. I was thinking about possibly making a t-shirt with speakers and a graphic equalizer on the front that you could plug into your phone or .mp3 player or maybe a wearable guitar amp. The social context aspect has been the hardest part to integrate into my idea, but I'll come up with something.
