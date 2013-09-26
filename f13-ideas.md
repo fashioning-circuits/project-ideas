@@ -15,3 +15,8 @@ Aaron Edmiston
 --------------
 
 I have been having a hard time thinking of something to do for this project, but I would like to do something music releated as it is a big part of my life. I was thinking about possibly making a t-shirt with speakers and a graphic equalizer on the front that you could plug into your phone or .mp3 player or maybe a wearable guitar amp. The social context aspect has been the hardest part to integrate into my idea, but I'll come up with something.
+
+Ethan Harmon
+------------
+
+It's no secret that I love me some comic books. Marvel and DC have tried some augmented reality with their comics, but with little success. I was thinking about integrating some sound of sound or LED devide that triggers when you are reading comics. Maybe with a t-shirt or a wrist band, something that will do something visually or with audio when flipping through pages.
