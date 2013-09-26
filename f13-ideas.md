@@ -10,3 +10,8 @@ Ashley Norfleet
 ---------------
 
 I have noticed how much trouble little kids have with getting their shoes on the correct feet and also how much they love things (especially shoes) that light up. I want to combine these observations to create shoes that are able to actually tell the child when their shoes are on the right or wrong feet. I want to do this by using various LEDs, sensors, and possibly sounds to create something that makes it fun and interactive for the child while also teaching them where their shoes belong. I think this would be both important and helpful in that it is teaching a child a relatively important concept that most of us simply take for granted.
+
+Harrison Massey
+---------------
+
+Clothing that electrocutes me when I'm slacking and should be working.
