@@ -10,3 +10,7 @@ Ashley Norfleet
 ---------------
 
 I have noticed how much trouble little kids have with getting their shoes on the correct feet and also how much they love things (especially shoes) that light up. I want to combine these observations to create shoes that are able to actually tell the child when their shoes are on the right or wrong feet. I want to do this by using various LEDs, sensors, and possibly sounds to create something that makes it fun and interactive for the child while also teaching them where their shoes belong. I think this would be both important and helpful in that it is teaching a child a relatively important concept that most of us simply take for granted.
+
+Ethan Harmon
+------------
+It's no secret that I love me some comic books. Marvel and DC have tried some augmented reality with their comics, but with little success. I was thinking about integrating some sound of sound or LED devide that triggers when you are reading comics. Maybe with a t-shirt or a wrist band, something that will do something visually or with audio when flipping through pages. 
