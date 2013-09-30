@@ -20,3 +20,7 @@ Ethan Harmon
 ------------
 
 It's no secret that I love me some comic books. Marvel and DC have tried some augmented reality with their comics, but with little success. I was thinking about integrating some sound of sound or LED devide that triggers when you are reading comics. Maybe with a t-shirt or a wrist band, something that will do something visually or with audio when flipping through pages.
+
+Kristen Taylor
+--------------
+Mental illness is an invisible illness, but that doesn't make it any less real. Because it may not be obvious to others who suffers from these mental illnesses, it can be really easy to spread misconceptions about the "type" of person who has them or how you can deal with it. That said, I want to create a project that focuses on visibility and destigmatization of mental illness. For me, my depression manifests as feelings of anxiety and being overwhelmed to the point where it's hard to get out of bed or get anything done. That said, I'm considering a project that uses an accelerometer or GPS (if that can be done??) to "sense" how much the wearer is getting done and lights up accordingly. Another idea would be a visual representation of what kind of day the wearer is having-- some days I feel totally fine and function regularly; others, I just don't have the spoons. Because this fluctuates, it can be hard for others to understand that mental illness is to blame and that I'm not just being "lazy."
